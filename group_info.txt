@@ -1,0 +1,88 @@
+
+GROUP 31: 
+
+Title : Blog Website 
+
+Group Name : ARGV 
+
+Division : 1 
+
+Batch :  S1, S3 
+
+Members :   
+
+1) Atharv Ganpatye    MIS : 111803050  Batch : S1                     
+
+2) Ritesh Chavan    MIS : 111803047     Batch : S1 
+
+3) Geetesh Dolas    MIS : 111708020     Batch : S1 
+
+4) Vedant Lokhande  MIS : 111803070     Batch : S3 
+
+ 
+
+4) Reason for selecting problem :  
+
+    Blogging is one of the best ways to share and gain knowledge.  
+
+    So we decided to make a Blog Website, where multiple users can post there blog and also make groups.  
+
+    Also this project will help us gain knowledge in the field of Web Dev. 
+
+ 
+
+5) Current state of art to solve the problem :    
+
+    There are many blogging websites online where you can see the blogs without logging in. 
+
+    But some users want to share their blogs/posts with only the registered users or in groups.  
+
+ 
+
+6) Your solution to problem : 
+
+    We have used Django to make this website, where users can log in to see the blogs of other users. 
+
+     Also we can create groups in it, which is an added advantage. 
+
+     New users can create an account to register to the website. 
+
+     Users can also delete or update their posts. 
+
+     User information,blogs is stored in SQLite Database. 
+
+     Styling of web app is done using CSS, Bootstrap. 
+
+ 
+
+7) Tools and Technologies used  : 
+
+        Python, 
+
+        Django Framework, 
+
+        SQLite Database, 
+
+        HTML,  
+
+        CSS,  
+
+        Bootstrap. 
+
+ 
+
+8)    Future Developments :-  
+
+        We can create a recommendation system where blogs will be recommended to users 
+
+        based on the content of blogs and user preferences. 
+
+Currently  this website runs on local host, in future we can publish it. 
+
+ 
+
+9)    GitHub link :-  
+
+Project Link 
+
+ 
