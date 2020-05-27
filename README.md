@@ -16,11 +16,14 @@ Group Members :
     
 1) Download/Clone the repository.
 
-2) Change your Directory on the terminal to this downloaded
-   directory "Blog_Website" --> cd Blog_Website
+2) Change your Directory on the terminal to this downloaded directory 
 
-3) Run the following command on your terminal :
-        :/Blog_Website$ python manage.py runserver
+   "Blog_Website" --> cd Blog_Website
+
+3) Run the following command on your terminal
+
+   :~/Blog_Website$ python manage.py runserver
+        
    Copy the url generated and paste it in your browser to see the website.
 
 4) To close the server, Press Ctrl+c on your terminal.
